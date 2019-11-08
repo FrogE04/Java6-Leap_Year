@@ -1,0 +1,2 @@
+include ':app', ':lib6'
+rootProject.name='My Application'
